@@ -23,8 +23,7 @@ The map shows the **population density distribution** of Rajshahi Division.
 - High-density areas (urban centers) are colored in **red**.  
 - Low-density areas (rural zones) are colored in **yellow**.  
 - Includes a **color-coded legend** for population density (people/km²).  
-
-**Author:** Khadem Ali  
+ 
 **Source:** GPWv4 (CIESIN, 2020)  
 
 ![Rajshahi GEE Map](image/gee.jpg)
