@@ -43,9 +43,5 @@ This chart presents **population density per district** in Rajshahi Division.
 
 ![District-wise Bar Chart](image/bar.png)
 
----
-
-## Prepared by
-Md. Khadem Ali
 
 © mdkhademali
