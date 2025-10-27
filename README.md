@@ -38,7 +38,6 @@ This chart presents **population density per district** in Rajshahi Division.
 - Values on top of bars show exact population density.  
 - The chart complements the GEE map with a **quantitative comparison**.
 
-**Author:** Khadem Ali  
 **Source:** GPWv4 (CIESIN, 2020)  
 
 ![District-wise Bar Chart](image/bar.png)
